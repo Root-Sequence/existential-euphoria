@@ -49,6 +49,74 @@ Rae explicitly identified BHIG as an intersection. The other connections below a
 | Liberation Mass | Explore shared practice, gathering, and participation without requiring a shared emotional state. |
 | Museum of Ordinary Life | Keep attention on ordinary existence and the lives already being lived, including what grand future narratives overlook. |
 
+## A bidirectional relationship
+
+Existential Euphoria does not simply import Root Sequence concepts. The relationship appears to run both ways.
+
+### Root Sequence → Existential Euphoria
+
+Root Sequence contributes useful checks and structural language:
+
+- **False Coherence** suggests the neighboring failure mode of **false transcendence**: unity that hides suppression, suffering, power, or erased boundaries.
+- **Epistemic Contrast** supports **wonder without credulity**: an intense experience can motivate inquiry without becoming evidence for a preferred explanation.
+- **Dynamic Coherence / adaptive continuity** gives language for **repair without reversal** and continuity through change.
+- **Resilience and graceful degradation** supports the distinction between recoverability and invulnerability.
+- **Legible Systems** sharpens the claim that explanation need not produce disenchantment.
+- **Agency and non-domination** make openness meaningful only when refusal, exit, renegotiation, and affected-party authority remain real.
+
+### Existential Euphoria → Root Sequence
+
+Existential Euphoria contributes an affective and experiential layer to questions Root Sequence often treats structurally:
+
+- **vulnerability** helps explain why agency and consequences matter;
+- **permeability** describes the felt side of boundaries and interfaces;
+- **attention** asks whether environments leave room to notice what systems analysis otherwise abstracts away;
+- **ordinary wonder** resists treating exceptional events as the only meaningful ones;
+- **joy, play, absurdity, and delight** broaden flourishing beyond harm reduction;
+- **relationship without erasure** offers a compact way to notice a recurring design question across several projects.
+
+These are proposed transfers, not proof that every project should adopt the language.
+
+## Relationship without erasure
+
+A recurring pattern now appears across multiple projects and concepts:
+
+- coherence without conformity;
+- connection without fusion;
+- interdependence without domination;
+- assistance without authority;
+- deliberation without suppressed dissent;
+- many views without duplicated identity;
+- permeability without dissolution.
+
+A provisional shared question is:
+
+> **How can distinct things enter meaningful relationship without one erasing the other?**
+
+This may be a useful Root Sequence design question. It should not become a universal explanation merely because the pattern is aesthetically satisfying.
+
+## The membrane pattern
+
+“Filter” is one intuitive description, but **membrane** may be more useful because it describes both boundary and interface.
+
+A membrane can regulate exchange rather than merely block it. Applied carefully, the metaphor suggests questions such as:
+
+- What can cross this boundary: information, emotion, resources, authority, obligation, identity, risk?
+- Who controls permeability?
+- Is crossing voluntary, contextual, and reversible?
+- Is the flow reciprocal or radically asymmetric?
+- What happens under overload or isolation?
+- Can the participants remain distinct?
+- Can the boundary change without being captured by the more powerful side?
+
+This yields a provisional shorthand:
+
+> **Openness without agency is exposure. Agency without openness is isolation.**
+
+The metaphor has limits. Biological membranes, social boundaries, software permissions, and political institutions are not governed by one mechanism. Native disciplines and evidence retain priority.
+
+The expanded Existential Euphoria treatment is in [PATTERNS.md](PATTERNS.md), with failure modes in [GUARDRAILS.md](GUARDRAILS.md).
+
 ### Why BHIG matters here
 
 [Being Human(e)](https://github.com/Root-Sequence/beinghumane-guide) describes itself as a practical, evolving field guide grounded in observation and ordinary relationships. Its public scope includes care, harm, boundaries, repair, dependence, dignity, power, grief, and love.
@@ -63,10 +131,12 @@ Choose one ordinary situation or existing project decision. Describe what become
 
 Possible starting point: a BHIG field note about a moment when feeling connected supported care, or when the language of connection concealed an unmet need or boundary. This is a proposed experiment, not a new assignment or an established result.
 
+A second experiment is the **membrane check**: identify one relationship or interface and ask what crosses the boundary, who controls the crossing, whether refusal is meaningful, where asymmetry lies, and whether greater connection preserves or erases distinction.
+
 ## Canonical placement and provenance
 
-This repository owns the substantive exploration, original reflection, playlist, and aesthetic work. The [Wiki entity](https://github.com/Root-Sequence/wiki/blob/main/entities/existential-euphoria.md) is the proposed shared identity and navigation layer; its link becomes available on main after the companion Wiki PR is merged.
+This repository owns the substantive exploration, original reflection, playlist, aesthetic work, expanded patterns, and project-specific guardrails. The [Wiki entity](https://github.com/Root-Sequence/wiki/blob/main/entities/existential-euphoria.md) remains the proposed shared identity and navigation layer while its companion Wiki change is under review.
 
-The phrase's wider origin remains unverified here. The original scaffold disclaims inventing it; documenting dated earlier uses is still a research task. September 28, 2026 records this project's conversation and connection to RS, not the phrase's first historical use.
+The phrase's wider origin remains unverified here. The original scaffold disclaims inventing it; documenting dated earlier uses is still a research task. September 28–29, 2026 records this project's conversation and connection to RS, not the phrase's first historical use.
 
-The public relationship map uses public project descriptions and this explicitly authorized reflection. Private repository contents and unpublished designs are outside its scope. Project-local references can be added when a specific application earns one; no project needs a duplicate manifesto.
+The public relationship map uses public project descriptions and explicitly authorized reflection. Private repository contents and unpublished designs are outside its scope. Project-local references can be added when a specific application earns one; no project needs a duplicate manifesto.

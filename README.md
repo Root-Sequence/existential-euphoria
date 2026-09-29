@@ -27,18 +27,21 @@ The goal is not to replace dread with optimism. The goal is to remain present to
 - **Finitude can intensify meaning.** Impermanence does not automatically imply insignificance.
 - **Awe is epistemically useful.** Vastness can reveal where our mental models are too small.
 - **Interconnection without flattening.** Connection does not erase difference, conflict, scale, or locality.
+- **Permeability with boundaries.** Being affected does not require surrendering agency; boundaries can make meaningful connection possible.
 - **No forced transcendence.** The extraordinary may be found by becoming more attentive to reality, not escaping it.
 - **No genre boundary.** Music, art, science, technology, philosophy, nature, cities, relationships, and ordinary life can all evoke it.
 
 ## Start here
 
 - [CONCEPT.md](CONCEPT.md) — boundaries, adjacent ideas, and open questions
+- [PATTERNS.md](PATTERNS.md) — recurring patterns: vulnerability, permeability, continuity, meaning, attention, care, and more
+- [GUARDRAILS.md](GUARDRAILS.md) — failure modes: false transcendence, coerced vulnerability, aestheticized suffering, credulity, and power asymmetry
+- [PRACTICE.md](PRACTICE.md) — optional ways to explore attention, scale, boundaries, traces, play, and ordinary wonder
 - [MANIFESTO.md](MANIFESTO.md) — a first lyrical statement
 - [PLAYLIST.md](PLAYLIST.md) — music that evokes the mode
 - [REFERENCES.md](REFERENCES.md) — research and conceptual neighbors
 - [SEEDS.md](SEEDS.md) — unfinished ideas worth keeping alive
 - [CONTRIBUTING.md](CONTRIBUTING.md) — how to add without turning this into a vibe dump
-
 - [ROOT-SEQUENCE.md](ROOT-SEQUENCE.md) — original reflection, provisional RS connections, and open questions
 
 ## Naming / provenance note
