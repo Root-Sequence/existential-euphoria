@@ -39,6 +39,8 @@ The goal is not to replace dread with optimism. The goal is to remain present to
 - [SEEDS.md](SEEDS.md) — unfinished ideas worth keeping alive
 - [CONTRIBUTING.md](CONTRIBUTING.md) — how to add without turning this into a vibe dump
 
+- [ROOT-SEQUENCE.md](ROOT-SEQUENCE.md) — original reflection, provisional RS connections, and open questions
+
 ## Naming / provenance note
 
 The phrase **“existential euphoria” predates this project** and has appeared independently in music, writing, and informal discussion. This repository does not claim to have invented the words. Its project is to develop a specific, explicit framework around the phrase and to document prior uses as they are found.
