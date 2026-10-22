@@ -118,6 +118,14 @@ Learn a fact that solves nothing.
 
 Let value exist without immediately converting it into output.
 
+## Different doorways (optional)
+
+One person might feel suddenly connected to existence through a song, movement, or a series of thoughts. Someone else may arrive somewhere meaningful through solitude, ordinary work, spiritual practice, conversation, grief, or something that has no obvious name.
+
+If you notice such a moment, you can ask what made it meaningful *for you*, without needing to preserve, repeat, explain, or turn it into a practice. If someone else describes theirs, consider listening for what mattered to them rather than comparing the intensity or deciding whether they interpreted it correctly.
+
+No person owes another person a transcendent experience. The point is openness to many ways of being, not a prescribed emotion.
+
 ## Meme method
 
 A concept that cannot survive contact with humor may be too brittle.

@@ -201,6 +201,8 @@ This does not imply a system should maximize happiness or manufacture emotional 
 
 > **Do not optimize away the conditions from which unscripted flourishing can emerge.**
 
+There is no single doorway into wonder: music and movement, a thought that suddenly opens outward, religious practice, the natural world, shared attention, or complete ordinariness may each matter to different people. Some people do not seek euphoria at all. Supporting meaningful opportunities is not the same as engineering a common emotional endpoint; empathy does not require feeling what someone else feels.
+
 ## 15. Difference makes relationship possible
 
 If two things become literally indistinguishable, there is no longer an interaction *between* them.

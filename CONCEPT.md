@@ -36,6 +36,11 @@ The philosophical sublime concerns encounters with magnitude, power, beauty, or 
 ### Self-transcendent experience
 Research on self-transcendent experiences describes states with reduced self-salience and increased connectedness. Existential euphoria can involve this, but does not require loss of self or mystical interpretation.
 
+### Spiritual, religious, and secular interpretations
+An encounter with existence can feel *spiritual* to someone who does not interpret it religiously or supernaturally. Another person may understand a similarly powerful encounter through prayer, faith, ritual, science, philosophy, art, or ordinary emotion. Their descriptions need not refer to identical experiences, and none should be imposed as the definitive explanation of another person's moment.
+
+Feeling transcendent is a quality of experience, not evidence that the universe has a particular purpose or that a metaphysical proposition has been proved. Perspective changes what an encounter means; it does not necessarily determine all the facts about what happened. Existential Euphoria makes room for this interpretive plurality rather than ranking people by how profoundly they seem to feel.
+
 ### Oceanic feeling
 The “oceanic” tradition names feelings of boundlessness or unity. Existential euphoria may sometimes be oceanic, but can also remain sharply aware of boundaries, difference, conflict, and mortality.
 
