@@ -51,3 +51,7 @@ The phrase **“existential euphoria” predates this project** and has appeared
 ## One-sentence version
 
 **We do not resolve the contradiction. We experience it fully.**
+
+## Developing question
+
+[Receptivity without a required experience](CONCEPT.md#receptivity-without-a-required-experience) asks how an encounter can leave room for surprise, rest, refusal and different responses. The proposed creative comparison has not been run; no particular feeling is required.
