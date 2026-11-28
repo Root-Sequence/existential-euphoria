@@ -101,4 +101,4 @@ Openness must remain chosen. Someone can decline an encounter, feel nothing, exp
 
 A small creative study could place the same ordinary scene in two invitations: one prescribing awe and one leaving interpretation open. Compare the implied demands and room for refusal through an editorial reading first. Participant impressions would require a separate voluntary protocol. No emotional effect, universal aesthetic recipe or therapeutic benefit is claimed.
 
-This connects to the [shared possibility/participation inquiry](https://github.com/Root-Sequence/root-sequence/blob/58fc7d694cc371bb57857d18f550ade40bb630bc/research/possibility-and-participation.md), which owns the cross-project synthesis rather than this project's meaning.
+This connects to the [shared possibility/participation inquiry](https://github.com/Root-Sequence/root-sequence/blob/a2f6e5a2b47def5fba6a36b72ccfd3282180aafd/research/possibility-and-participation.md), which owns the cross-project synthesis rather than this project's meaning.

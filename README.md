@@ -55,3 +55,5 @@ The phrase **“existential euphoria” predates this project** and has appeared
 ## Developing question
 
 [Receptivity without a required experience](CONCEPT.md#receptivity-without-a-required-experience) asks how an encounter can leave room for surprise, rest, refusal and different responses. The proposed creative comparison has not been run; no particular feeling is required.
+
+[Development record](WORK-RECORD.md)
