@@ -30,3 +30,7 @@ Existential Euphoria should grow by **connection without category collapse**.
 **What boundary or question it tests:**
 
 **Source / provenance:**
+
+## Contribution records
+
+Keep substantive AI assistance and development bookkeeping in [WORK-RECORD.md](WORK-RECORD.md), linked to work instances. Do not add generic author-review banners to subject pages. Preserve claim-specific uncertainty, source inspection limits, fiction boundaries and actual protocol/result distinctions.
